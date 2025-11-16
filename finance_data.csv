@@ -1,4 +1,11 @@
 date,amount,category,description
-20-07-2024,124.21,Income,salary
-16-11-2025,125.0,Income,Side Gig
-19-07-2024,3000.0,Income,Salary
+05-01-2024,2000.0,Income,Salary
+12-02-2024,150.5,Expense,Groceries
+25-02-2024,300.0,Income,Freelance
+18-03-2024,75.0,Expense,Coffee
+22-04-2024,1800.0,Income,Salary
+07-05-2024,250.0,Expense,Utilities
+15-06-2024,120.0,Expense,Transport
+30-06-2024,400.0,Income,Bonus
+10-08-2024,500.0,Income,Side Gig
+02-09-2024,90.0,Expense,Entertainment
