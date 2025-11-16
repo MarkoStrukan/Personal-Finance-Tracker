@@ -24,8 +24,9 @@ Create the following two files in the same directory:
 
 Install the required Python packages (`pandas` and `matplotlib`):
 
-```
+
 bash
+```
 pip install pandas
 pip install matplotlib
 ```
