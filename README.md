@@ -53,12 +53,7 @@ Description	Text (e.g., "Monthly salary")	Optional descriptive text.
 4. 📊 Viewing Summary and Plot (Option 2)
 
 Select 2 to analyze your finances:
-
-    You will be prompted for a start date and end date in dd-mm-yyyy format to define the reporting period.
-
-    The script will display all transactions in that range, followed by the Total Income, Total Expense, and Total Savings.
-
-    Finally, you will be asked if you want to view the plot: Do you want to see the plot? (y/n):. Enter y to display the visualization of income and expenses over time .
+You will be prompted for a start date and end date in dd-mm-yyyy format to define the reporting period. The script will display all transactions in that range, followed by the Total Income, Total Expense, and Total Savings. Finally, you will be asked if you want to view the plot: Do you want to see the plot? (y/n):. Enter y to display the visualization of income and expenses over time .
 
 
 5. 🚪 Exiting (Option 3)
