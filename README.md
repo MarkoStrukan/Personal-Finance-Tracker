@@ -24,9 +24,11 @@ Create the following two files in the same directory:
 
 Install the required Python packages (`pandas` and `matplotlib`):
 
-`bash
+```
+bash
 pip install pandas
-pip install matplotlib`
+pip install matplotlib
+```
 
 
 2. 🖥️ Main Menu
