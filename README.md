@@ -11,13 +11,13 @@ This Python script serves as a straightforward Command Line Interface (CLI) tool
 
 ## 🛠️ Project Setup
 
-To run the script, you need two Python files (`finance_tracker.py` and `data_entry.py`) and a few external libraries.
+To run the script, you need two Python files (`main.py` and `data_entry.py`) and a few external libraries.
 
 ### 1. File Structure
 
 Create the following two files in the same directory:
 
-* `finance_tracker.py` (The main logic)
+* `main.py` (The main logic)
 * `data_entry.py` (Input and validation logic)
 
 ### 2. Install Dependencies
