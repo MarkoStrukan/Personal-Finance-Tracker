@@ -46,7 +46,7 @@ Enter your choice (1-3):
 3. ➕ Adding a Transaction (Option 1)
 
 Select 1 to input a new record. The script will guide you through entering the necessary data:
-Prompt	Format/Input	Notes
+
 - Date	dd-mm-yyyy or Enter	Pressing Enter uses today's date.
 - Amount	Numeric value (e.g., 150.75)	Must be a positive number.
 - Category	1 (Income) or 2 (Expense)	Choose the corresponding number.
