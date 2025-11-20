@@ -9,7 +9,7 @@ This Python script serves as a straightforward Command Line Interface (CLI) tool
 * **Financial Summary:** Calculation of total income, total expense, and net savings/loss.
 * **Visualization:** Generates a line plot to compare income and expenses over time using Matplotlib.
 
-## 🛠️ Project Setup
+##  Project Setup
 
 To run the script, you need two Python files (`main.py` and `data_entry.py`) and a few external libraries.
 
