@@ -1,8 +1,8 @@
-# 💰 Simple Personal Finance Tracker (CLI)
+#  Simple Personal Finance Tracker (CLI)
 
 This Python script serves as a straightforward Command Line Interface (CLI) tool for tracking personal finances. It allows you to add transactions (income and expenses), view a summary of your finances within a specific date range, and visualize the flow of your money using a chart.
 
-## 🚀 Features
+##  Features
 
 * **Data Storage:** Transactions are persistently stored in a CSV file (`finance_data.csv`).
 * **Filtering:** View and summarize transactions within a selected time period.
@@ -32,7 +32,7 @@ pip install matplotlib
 ```
 
 
-2. 🖥️ Main Menu
+2.  Main Menu
 
 The application will launch and present the main menu:
 
@@ -43,7 +43,7 @@ The application will launch and present the main menu:
 3. Exit
 Enter your choice (1-3):
 ```
-3. ➕ Adding a Transaction (Option 1)
+3.  Adding a Transaction (Option 1)
 
 Select 1 to input a new record. The script will guide you through entering the necessary data:
 
@@ -53,13 +53,13 @@ Select 1 to input a new record. The script will guide you through entering the n
 - Description	Text (e.g., "Monthly salary")	Optional descriptive text.
 
 
-4. 📊 Viewing Summary and Plot (Option 2)
+4.  Viewing Summary and Plot (Option 2)
 
 Select 2 to analyze your finances:
 You will be prompted for a start date and end date in dd-mm-yyyy format to define the reporting period. The script will display all transactions in that range, followed by the Total Income, Total Expense, and Total Savings. Finally, you will be asked if you want to view the plot: Do you want to see the plot? (y/n):. Enter y to display the visualization of income and expenses over time.
 
 
-5. 🚪 Exiting (Option 3)
+5.  Exiting (Option 3)
    
 Select 3 to close the application and return to the command line.
 
