@@ -54,7 +54,7 @@ class CSV:
         print(f"Total expense: ${total_expense:.2f}")
         print(f"Total savings: ${(total_income - total_expense):.2f}")
 
-        return filtered_df  # Vrati df da se može koristiti za plot
+        return filtered_df  
 
 
 def add():
